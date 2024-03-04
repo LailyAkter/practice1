@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    padding-left: 30%;
+}
+
+.profile {
+    width: 40%;
+    background-color: rgba(106, 95, 95, 0.061);
+    text-align: center;
+    padding: 40px;
+}
+
+.profile img {
+    border-radius: 150px;
+    padding: 20px;
+ 
+}
+.profile h1{
+color: wheat;
+text-align: center;
+}
+.profile .p1{
+    color: rgb(25, 119, 25);
+    text-align: center;
+}
+.profile .p2{
+    color: white;
+    text-align: center;
+}
+.section-1{
+    width: 98%;
+    height: 40px;
+    background-color: blue;
+    margin-top: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+.section-1 a{
+  display: inline-block;
+text-decoration: none;
+color: white;
+margin-top: 10px;
+font-size: 15px;
+}
+.section-1:hover{
+background-color: black;
+transition: 1.5s;
+}
+/* .inforation p{
+color: white;
+text-align: center;
+}
+..profile-inforation ul li {
+    background-color: red;
+}
+.profile-inforation ul li a{
+  text-decoration: none;
+  font-size: 20px;
+} */
